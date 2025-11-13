@@ -1,4 +1,4 @@
-# Bidco Pricing & Promo Health Check  
+# Bidco Pricing & Promo Health Check 
 **One-Week Retail Data Analysis**  
 *Prepared by Munyao Emmanuel Adika | Duck – Retail Data Layer for Africa*  
 *Date: November 12, 2025*
