@@ -126,5 +126,4 @@ This one-week analysis of Bidco’s retail performance reveals a clear, high-con
 ---
 **Let’s turn data into profit.**  
 Munyao Emmanuel Adika  
-Lead Data Engineer, Duck  
 [adikamunyao@gmail.com](mailto:adikamunyao@gmail.com)
