@@ -6,12 +6,7 @@
 ---
 
 ## Executive Summary
-
-> **Bidco sold KSh 604,792** this week across **2,177 units**  
-> **Avg price = KSh 277.8** (**12.9% off RRP**)  
-> **95% of SKUs on promo** → **+7% uplift**  
-> **Price Index vs competitors: 2.126** *(Bidco is **2.1x more expensive**)*  
-> **Fix pricing in 3 sections → +KSh 27,618/week**
+<img width="1056" height="472" alt="image" src="https://github.com/user-attachments/assets/6b407a3f-31d0-4839-8e8f-01c3a0ebbee1" />
 
 **Action**: **Reduce discounts in Sunflower Oil, Other Flavor, Baking Powder** → **+KSh 27,618/week margin gain**
 
