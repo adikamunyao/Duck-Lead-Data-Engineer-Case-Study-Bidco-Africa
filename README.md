@@ -72,15 +72,7 @@ We analyzed **1 week of sales data**  from a major retailer to deliver **actiona
 | **Avg Discount vs RRP** | **12.9%** | Heavy discounting despite high price |
 
 ### Store-Level View (Top 3)
-
-| Store | Price Index | Positioning | Action |
-|------|-------------|-------------|--------|
-| Store 02 | 2.41 | Ultra-Premium | **Cut discount** |
-| Store 09 | 2.18 | Premium | **Reduce promo depth** |
-| Store 05 | 1.89 | High-Premium | **Keep** |
-
-> **Insight #4**: Bidco is **priced 2.1x above competitors** — **premium positioning is real**, but **deep discounts erode margin**.
-
+<img width="959" height="776" alt="image" src="https://github.com/user-attachments/assets/0d917966-f570-4f43-82f6-990cf67e52e9" />
 ---
 
 ## 4. Margin Opportunity – Exact KSh Gain
